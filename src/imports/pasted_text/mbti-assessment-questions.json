@@ -1,0 +1,1391 @@
+{
+  "assessment_id": "mbti_step_1",
+  "assessment_name": "MBTI Personality Type Assessment",
+  "version": "1.0",
+  "content_source": "Hamrahe-generated original items based on MBTI Step I preference dimensions",
+  "language": "en",
+  "total_questions": 92,
+  "estimated_duration_minutes": 20,
+  "questions": [
+    {
+      "question_id": "MBTI_EI_01",
+      "question_text": "When starting a new project, which approach feels more natural to you?",
+      "question_type": "forced_choice",
+      "option_a": "I prefer discussing ideas with others early to build momentum",
+      "option_b": "I prefer thinking through the ideas privately before sharing",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "project_start",
+      "order": 1
+    },
+    {
+      "question_id": "MBTI_EI_02",
+      "question_text": "After a long day of meetings, how do you typically recharge?",
+      "question_type": "forced_choice",
+      "option_a": "By connecting with colleagues or friends to decompress",
+      "option_b": "By spending time alone to process and reflect",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "energy_recovery",
+      "order": 2
+    },
+    {
+      "question_id": "MBTI_EI_03",
+      "question_text": "When solving a complex problem, which do you find most helpful?",
+      "question_type": "forced_choice",
+      "option_a": "Talking it through with others to explore different angles",
+      "option_b": "Working through it independently first",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "problem_solving",
+      "order": 3
+    },
+    {
+      "question_id": "MBTI_EI_04",
+      "question_text": "In team brainstorming sessions, you tend to:",
+      "question_type": "forced_choice",
+      "option_a": "Share ideas as they come to mind",
+      "option_b": "Listen and reflect before contributing",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "brainstorming",
+      "order": 4
+    },
+    {
+      "question_id": "MBTI_EI_05",
+      "question_text": "When you need to make an important decision at work, you prefer to:",
+      "question_type": "forced_choice",
+      "option_a": "Discuss options with colleagues to hear different perspectives",
+      "option_b": "Think it through on your own before seeking input",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "decision_making",
+      "order": 5
+    },
+    {
+      "question_id": "MBTI_EI_06",
+      "question_text": "At professional networking events, you typically:",
+      "question_type": "forced_choice",
+      "option_a": "Feel energized and enjoy meeting many new people",
+      "option_b": "Prefer deeper conversations with a few individuals",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "networking",
+      "order": 6
+    },
+    {
+      "question_id": "MBTI_EI_07",
+      "question_text": "Your ideal work environment allows you to:",
+      "question_type": "forced_choice",
+      "option_a": "Collaborate openly with colleagues throughout the day",
+      "option_b": "Have dedicated quiet time for focused work",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "work_environment",
+      "order": 7
+    },
+    {
+      "question_id": "MBTI_EI_08",
+      "question_text": "When communicating a new idea, you tend to:",
+      "question_type": "forced_choice",
+      "option_a": "Present it verbally and refine it through discussion",
+      "option_b": "Develop it fully in writing before sharing",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "communication",
+      "order": 8
+    },
+    {
+      "question_id": "MBTI_EI_09",
+      "question_text": "During a typical workday, you prefer:",
+      "question_type": "forced_choice",
+      "option_a": "Regular interaction and collaboration with team members",
+      "option_b": "Extended periods of uninterrupted individual work",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "workday_rhythm",
+      "order": 9
+    },
+    {
+      "question_id": "MBTI_EI_10",
+      "question_text": "When learning a new skill for work, you find it more effective to:",
+      "question_type": "forced_choice",
+      "option_a": "Learn through group training and discussion",
+      "option_b": "Study independently at your own pace",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "learning_style",
+      "order": 10
+    },
+    {
+      "question_id": "MBTI_EI_11",
+      "question_text": "In meetings, you are more likely to:",
+      "question_type": "forced_choice",
+      "option_a": "Think out loud and process ideas verbally",
+      "option_b": "Reflect internally before speaking",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "meeting_participation",
+      "order": 11
+    },
+    {
+      "question_id": "MBTI_EI_12",
+      "question_text": "When joining a new team, you typically:",
+      "question_type": "forced_choice",
+      "option_a": "Introduce yourself and start building connections quickly",
+      "option_b": "Observe and understand the dynamics before fully engaging",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "team_integration",
+      "order": 12
+    },
+    {
+      "question_id": "MBTI_EI_13",
+      "question_text": "Your approach to giving presentations is to:",
+      "question_type": "forced_choice",
+      "option_a": "Engage with the audience and welcome spontaneous interaction",
+      "option_b": "Prepare thoroughly and deliver a structured presentation",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "presentation_style",
+      "order": 13
+    },
+    {
+      "question_id": "MBTI_EI_14",
+      "question_text": "During lunch breaks, you prefer to:",
+      "question_type": "forced_choice",
+      "option_a": "Join colleagues for social time",
+      "option_b": "Take personal time to recharge",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "break_preference",
+      "order": 14
+    },
+    {
+      "question_id": "MBTI_EI_15",
+      "question_text": "When faced with a deadline, you work best by:",
+      "question_type": "forced_choice",
+      "option_a": "Coordinating closely with team members",
+      "option_b": "Focusing independently on your portion of the work",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "deadline_approach",
+      "order": 15
+    },
+    {
+      "question_id": "MBTI_EI_16",
+      "question_text": "Your preferred method for staying informed about workplace updates is:",
+      "question_type": "forced_choice",
+      "option_a": "Conversations and group discussions",
+      "option_b": "Reading emails and written communications",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "information_gathering",
+      "order": 16
+    },
+    {
+      "question_id": "MBTI_EI_17",
+      "question_text": "When processing feedback, you find it most helpful to:",
+      "question_type": "forced_choice",
+      "option_a": "Discuss it immediately with the person who gave it",
+      "option_b": "Take time to reflect on it privately first",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "feedback_processing",
+      "order": 17
+    },
+    {
+      "question_id": "MBTI_EI_18",
+      "question_text": "Your response style in email conversations tends to be:",
+      "question_type": "forced_choice",
+      "option_a": "Quick replies to keep the conversation flowing",
+      "option_b": "Thoughtful responses after careful consideration",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "communication_pace",
+      "order": 18
+    },
+    {
+      "question_id": "MBTI_EI_19",
+      "question_text": "In collaborative projects, you gain clarity by:",
+      "question_type": "forced_choice",
+      "option_a": "Talking through possibilities with others",
+      "option_b": "Analyzing information independently",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "clarity_process",
+      "order": 19
+    },
+    {
+      "question_id": "MBTI_EI_20",
+      "question_text": "When attending professional conferences, you prefer to:",
+      "question_type": "forced_choice",
+      "option_a": "Attend multiple sessions and network actively",
+      "option_b": "Select fewer sessions and have time to process learnings",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "event_engagement",
+      "order": 20
+    },
+    {
+      "question_id": "MBTI_EI_21",
+      "question_text": "Your approach to team conflicts is to:",
+      "question_type": "forced_choice",
+      "option_a": "Address them openly in group discussions",
+      "option_b": "Reflect on the situation before engaging",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "conflict_handling",
+      "order": 21
+    },
+    {
+      "question_id": "MBTI_EI_22",
+      "question_text": "At the end of a busy work week, you typically feel:",
+      "question_type": "forced_choice",
+      "option_a": "Energized by the interactions and ready for social activities",
+      "option_b": "Ready for quiet time to restore your energy",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "weekly_energy",
+      "order": 22
+    },
+    {
+      "question_id": "MBTI_EI_23",
+      "question_text": "When exploring new career opportunities, you prefer to:",
+      "question_type": "forced_choice",
+      "option_a": "Network and talk with people in those fields",
+      "option_b": "Research and reflect independently",
+      "dimension_pair": "E/I",
+      "scoring_key": {
+        "option_a": "E",
+        "option_b": "I"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "career_exploration",
+      "order": 23
+    },
+    {
+      "question_id": "MBTI_SN_01",
+      "question_text": "When reviewing a project proposal, you focus more on:",
+      "question_type": "forced_choice",
+      "option_a": "Concrete details and specific implementation steps",
+      "option_b": "Overall vision and future possibilities",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "proposal_review",
+      "order": 24
+    },
+    {
+      "question_id": "MBTI_SN_02",
+      "question_text": "When learning a new process, you prefer:",
+      "question_type": "forced_choice",
+      "option_a": "Step-by-step instructions with clear examples",
+      "option_b": "Understanding the underlying concepts and principles",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "learning_approach",
+      "order": 25
+    },
+    {
+      "question_id": "MBTI_SN_03",
+      "question_text": "In strategic planning sessions, you contribute by:",
+      "question_type": "forced_choice",
+      "option_a": "Providing practical insights based on current data",
+      "option_b": "Exploring innovative approaches and future trends",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "strategic_planning",
+      "order": 26
+    },
+    {
+      "question_id": "MBTI_SN_04",
+      "question_text": "When solving problems, you tend to:",
+      "question_type": "forced_choice",
+      "option_a": "Rely on proven methods that have worked before",
+      "option_b": "Experiment with new and creative solutions",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "problem_approach",
+      "order": 27
+    },
+    {
+      "question_id": "MBTI_SN_05",
+      "question_text": "When reading reports, you pay most attention to:",
+      "question_type": "forced_choice",
+      "option_a": "Facts, figures, and specific observations",
+      "option_b": "Patterns, implications, and broader meanings",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "information_focus",
+      "order": 28
+    },
+    {
+      "question_id": "MBTI_SN_06",
+      "question_text": "Your approach to innovation is to:",
+      "question_type": "forced_choice",
+      "option_a": "Improve and refine existing methods",
+      "option_b": "Imagine entirely new possibilities",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "innovation_style",
+      "order": 29
+    },
+    {
+      "question_id": "MBTI_SN_07",
+      "question_text": "When evaluating a situation, you trust more:",
+      "question_type": "forced_choice",
+      "option_a": "Direct experience and observable evidence",
+      "option_b": "Intuition and reading between the lines",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "evaluation_basis",
+      "order": 30
+    },
+    {
+      "question_id": "MBTI_SN_08",
+      "question_text": "In project planning, you emphasize:",
+      "question_type": "forced_choice",
+      "option_a": "Realistic timelines based on current resources",
+      "option_b": "Ambitious goals that push boundaries",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "planning_emphasis",
+      "order": 31
+    },
+    {
+      "question_id": "MBTI_SN_09",
+      "question_text": "When giving instructions, you tend to be:",
+      "question_type": "forced_choice",
+      "option_a": "Specific and detailed about what needs to be done",
+      "option_b": "Conceptual about the desired outcome",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "instruction_style",
+      "order": 32
+    },
+    {
+      "question_id": "MBTI_SN_10",
+      "question_text": "Your strength in teamwork comes from:",
+      "question_type": "forced_choice",
+      "option_a": "Attention to practical details and execution",
+      "option_b": "Seeing connections and future possibilities",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "team_contribution",
+      "order": 33
+    },
+    {
+      "question_id": "MBTI_SN_11",
+      "question_text": "When facing change at work, you prefer:",
+      "question_type": "forced_choice",
+      "option_a": "Clear information about what will be different",
+      "option_b": "Understanding the vision and long-term direction",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "change_preference",
+      "order": 34
+    },
+    {
+      "question_id": "MBTI_SN_12",
+      "question_text": "In brainstorming, you contribute by:",
+      "question_type": "forced_choice",
+      "option_a": "Offering practical suggestions grounded in reality",
+      "option_b": "Generating imaginative and unconventional ideas",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "brainstorming_contribution",
+      "order": 35
+    },
+    {
+      "question_id": "MBTI_SN_13",
+      "question_text": "Your decision-making is guided more by:",
+      "question_type": "forced_choice",
+      "option_a": "Present facts and tangible information",
+      "option_b": "Future potential and emerging patterns",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "decision_guide",
+      "order": 36
+    },
+    {
+      "question_id": "MBTI_SN_14",
+      "question_text": "When describing your work to others, you focus on:",
+      "question_type": "forced_choice",
+      "option_a": "What you actually do and specific tasks",
+      "option_b": "The bigger purpose and meaning of the work",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "work_description",
+      "order": 37
+    },
+    {
+      "question_id": "MBTI_SN_15",
+      "question_text": "In meetings, you find most valuable:",
+      "question_type": "forced_choice",
+      "option_a": "Concrete action items and next steps",
+      "option_b": "Conceptual discussions and strategic thinking",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "meeting_value",
+      "order": 38
+    },
+    {
+      "question_id": "MBTI_SN_16",
+      "question_text": "When something goes wrong, you focus on:",
+      "question_type": "forced_choice",
+      "option_a": "What specifically happened and how to fix it",
+      "option_b": "Understanding why it happened and preventing future issues",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "problem_diagnosis",
+      "order": 39
+    },
+    {
+      "question_id": "MBTI_SN_17",
+      "question_text": "Your approach to professional development is to:",
+      "question_type": "forced_choice",
+      "option_a": "Build specific skills for current responsibilities",
+      "option_b": "Explore broad concepts for future opportunities",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "development_focus",
+      "order": 40
+    },
+    {
+      "question_id": "MBTI_SN_18",
+      "question_text": "When reviewing data, you are drawn to:",
+      "question_type": "forced_choice",
+      "option_a": "Individual data points and their accuracy",
+      "option_b": "Overall trends and what they suggest",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "data_analysis",
+      "order": 41
+    },
+    {
+      "question_id": "MBTI_SN_19",
+      "question_text": "Your preferred work style involves:",
+      "question_type": "forced_choice",
+      "option_a": "Following established procedures consistently",
+      "option_b": "Adapting approaches based on new insights",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "work_consistency",
+      "order": 42
+    },
+    {
+      "question_id": "MBTI_SN_20",
+      "question_text": "When setting goals, you prefer to:",
+      "question_type": "forced_choice",
+      "option_a": "Define measurable and achievable targets",
+      "option_b": "Envision transformative possibilities",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "goal_setting",
+      "order": 43
+    },
+    {
+      "question_id": "MBTI_SN_21",
+      "question_text": "Your communication style emphasizes:",
+      "question_type": "forced_choice",
+      "option_a": "Clarity through specific examples",
+      "option_b": "Understanding through metaphors and analogies",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "communication_emphasis",
+      "order": 44
+    },
+    {
+      "question_id": "MBTI_SN_22",
+      "question_text": "When evaluating opportunities, you consider:",
+      "question_type": "forced_choice",
+      "option_a": "Practical benefits and immediate applicability",
+      "option_b": "Innovative potential and future impact",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "opportunity_evaluation",
+      "order": 45
+    },
+    {
+      "question_id": "MBTI_SN_23",
+      "question_text": "Your expertise is recognized for:",
+      "question_type": "forced_choice",
+      "option_a": "Deep knowledge of specific processes and details",
+      "option_b": "Ability to see the bigger picture and connect ideas",
+      "dimension_pair": "S/N",
+      "scoring_key": {
+        "option_a": "S",
+        "option_b": "N"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "expertise_recognition",
+      "order": 46
+    },
+    {
+      "question_id": "MBTI_TF_01",
+      "question_text": "When making decisions, you prioritize:",
+      "question_type": "forced_choice",
+      "option_a": "Objective analysis and logical consistency",
+      "option_b": "Impact on people and team harmony",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "decision_priority",
+      "order": 47
+    },
+    {
+      "question_id": "MBTI_TF_02",
+      "question_text": "When giving feedback, you tend to:",
+      "question_type": "forced_choice",
+      "option_a": "Be direct about what needs improvement",
+      "option_b": "Consider how the person will receive the message",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "feedback_style",
+      "order": 48
+    },
+    {
+      "question_id": "MBTI_TF_03",
+      "question_text": "In team conflicts, you focus on:",
+      "question_type": "forced_choice",
+      "option_a": "Finding the most logical solution",
+      "option_b": "Maintaining relationships and mutual understanding",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "conflict_focus",
+      "order": 49
+    },
+    {
+      "question_id": "MBTI_TF_04",
+      "question_text": "When evaluating proposals, you value:",
+      "question_type": "forced_choice",
+      "option_a": "Efficiency and effectiveness of the approach",
+      "option_b": "How it affects the people involved",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "proposal_evaluation",
+      "order": 50
+    },
+    {
+      "question_id": "MBTI_TF_05",
+      "question_text": "Your approach to problem-solving emphasizes:",
+      "question_type": "forced_choice",
+      "option_a": "Analyzing facts and applying consistent principles",
+      "option_b": "Understanding different perspectives and values",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "problem_emphasis",
+      "order": 51
+    },
+    {
+      "question_id": "MBTI_TF_06",
+      "question_text": "When things go wrong, you tend to ask:",
+      "question_type": "forced_choice",
+      "option_a": "What was the logical flaw or mistake?",
+      "option_b": "How are people affected and how can we support them?",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "crisis_response",
+      "order": 52
+    },
+    {
+      "question_id": "MBTI_TF_07",
+      "question_text": "In discussions, you are more concerned with:",
+      "question_type": "forced_choice",
+      "option_a": "Whether the argument is logically sound",
+      "option_b": "Whether everyone feels heard and valued",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "discussion_concern",
+      "order": 53
+    },
+    {
+      "question_id": "MBTI_TF_08",
+      "question_text": "When implementing changes, you prioritize:",
+      "question_type": "forced_choice",
+      "option_a": "The most rational and efficient path forward",
+      "option_b": "Ensuring everyone is comfortable with the transition",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "change_implementation",
+      "order": 54
+    },
+    {
+      "question_id": "MBTI_TF_09",
+      "question_text": "You believe fairness means:",
+      "question_type": "forced_choice",
+      "option_a": "Applying the same standards to everyone",
+      "option_b": "Considering individual circumstances and needs",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "fairness_definition",
+      "order": 55
+    },
+    {
+      "question_id": "MBTI_TF_10",
+      "question_text": "When reviewing someone's work, you focus on:",
+      "question_type": "forced_choice",
+      "option_a": "Technical accuracy and areas for improvement",
+      "option_b": "Recognizing effort and providing encouragement",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "work_review",
+      "order": 56
+    },
+    {
+      "question_id": "MBTI_TF_11",
+      "question_text": "In negotiations, your strength is:",
+      "question_type": "forced_choice",
+      "option_a": "Identifying logical arguments and leverage points",
+      "option_b": "Building rapport and finding common ground",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "negotiation_strength",
+      "order": 57
+    },
+    {
+      "question_id": "MBTI_TF_12",
+      "question_text": "When leading a team, you emphasize:",
+      "question_type": "forced_choice",
+      "option_a": "Clear goals and accountability",
+      "option_b": "Team cohesion and individual development",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "leadership_emphasis",
+      "order": 58
+    },
+    {
+      "question_id": "MBTI_TF_13",
+      "question_text": "Your communication at work is characterized by:",
+      "question_type": "forced_choice",
+      "option_a": "Directness and clarity",
+      "option_b": "Warmth and consideration",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "communication_character",
+      "order": 59
+    },
+    {
+      "question_id": "MBTI_TF_14",
+      "question_text": "When prioritizing tasks under pressure, you consider:",
+      "question_type": "forced_choice",
+      "option_a": "Which tasks are most critical to outcomes",
+      "option_b": "Which tasks affect the most people",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "pressure_prioritization",
+      "order": 60
+    },
+    {
+      "question_id": "MBTI_TF_15",
+      "question_text": "In performance evaluations, you focus on:",
+      "question_type": "forced_choice",
+      "option_a": "Measurable results and objective criteria",
+      "option_b": "Growth, effort, and team contribution",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "evaluation_focus",
+      "order": 61
+    },
+    {
+      "question_id": "MBTI_TF_16",
+      "question_text": "When someone disagrees with you, you:",
+      "question_type": "forced_choice",
+      "option_a": "Enjoy debating the merits of different positions",
+      "option_b": "Seek to understand their viewpoint and find alignment",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "disagreement_response",
+      "order": 62
+    },
+    {
+      "question_id": "MBTI_TF_17",
+      "question_text": "Your decision-making process involves:",
+      "question_type": "forced_choice",
+      "option_a": "Weighing pros and cons analytically",
+      "option_b": "Considering how it aligns with personal and team values",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "decision_process",
+      "order": 63
+    },
+    {
+      "question_id": "MBTI_TF_18",
+      "question_text": "When motivating others, you appeal to:",
+      "question_type": "forced_choice",
+      "option_a": "Achievement and competence",
+      "option_b": "Purpose and personal meaning",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "motivation_appeal",
+      "order": 64
+    },
+    {
+      "question_id": "MBTI_TF_19",
+      "question_text": "In meetings, you contribute by:",
+      "question_type": "forced_choice",
+      "option_a": "Challenging assumptions and ensuring logical rigor",
+      "option_b": "Facilitating participation and building consensus",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "meeting_contribution",
+      "order": 65
+    },
+    {
+      "question_id": "MBTI_TF_20",
+      "question_text": "When someone is upset, you tend to:",
+      "question_type": "forced_choice",
+      "option_a": "Help them think through the situation logically",
+      "option_b": "Provide emotional support and empathy",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "emotional_response",
+      "order": 66
+    },
+    {
+      "question_id": "MBTI_TF_21",
+      "question_text": "Your strength in projects comes from:",
+      "question_type": "forced_choice",
+      "option_a": "Identifying flaws and optimizing solutions",
+      "option_b": "Supporting team morale and collaboration",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "project_strength",
+      "order": 67
+    },
+    {
+      "question_id": "MBTI_TF_22",
+      "question_text": "When there are competing priorities, you decide based on:",
+      "question_type": "forced_choice",
+      "option_a": "Which approach is most strategically sound",
+      "option_b": "Which approach best serves people's needs",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "priority_decision",
+      "order": 68
+    },
+    {
+      "question_id": "MBTI_TF_23",
+      "question_text": "Your professional relationships are built on:",
+      "question_type": "forced_choice",
+      "option_a": "Mutual respect for competence and expertise",
+      "option_b": "Personal connection and trust",
+      "dimension_pair": "T/F",
+      "scoring_key": {
+        "option_a": "T",
+        "option_b": "F"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "relationship_foundation",
+      "order": 69
+    },
+    {
+      "question_id": "MBTI_JP_01",
+      "question_text": "Your approach to work is generally:",
+      "question_type": "forced_choice",
+      "option_a": "Planned and organized with clear structure",
+      "option_b": "Flexible and adaptable to changing circumstances",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "work_approach",
+      "order": 70
+    },
+    {
+      "question_id": "MBTI_JP_02",
+      "question_text": "When starting a project, you prefer to:",
+      "question_type": "forced_choice",
+      "option_a": "Create a detailed plan before beginning",
+      "option_b": "Start and adjust the approach as you go",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "project_initiation",
+      "order": 71
+    },
+    {
+      "question_id": "MBTI_JP_03",
+      "question_text": "Approaching deadlines, you typically:",
+      "question_type": "forced_choice",
+      "option_a": "Complete work well in advance",
+      "option_b": "Work best closer to the deadline",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "deadline_timing",
+      "order": 72
+    },
+    {
+      "question_id": "MBTI_JP_04",
+      "question_text": "Your workspace is typically:",
+      "question_type": "forced_choice",
+      "option_a": "Organized with everything in its place",
+      "option_b": "Arranged in a way that makes sense to you in the moment",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "workspace_organization",
+      "order": 73
+    },
+    {
+      "question_id": "MBTI_JP_05",
+      "question_text": "When making decisions, you prefer to:",
+      "question_type": "forced_choice",
+      "option_a": "Decide quickly and move forward",
+      "option_b": "Keep options open until necessary",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "decision_timing",
+      "order": 74
+    },
+    {
+      "question_id": "MBTI_JP_06",
+      "question_text": "Your daily work routine is:",
+      "question_type": "forced_choice",
+      "option_a": "Structured with a clear schedule",
+      "option_b": "Spontaneous based on priorities as they emerge",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "routine_structure",
+      "order": 75
+    },
+    {
+      "question_id": "MBTI_JP_07",
+      "question_text": "When plans change unexpectedly, you:",
+      "question_type": "forced_choice",
+      "option_a": "Find it disruptive and prefer to stick to the original plan",
+      "option_b": "Adapt easily and see it as an opportunity",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "change_response",
+      "order": 76
+    },
+    {
+      "question_id": "MBTI_JP_08",
+      "question_text": "Your task management style involves:",
+      "question_type": "forced_choice",
+      "option_a": "Using detailed to-do lists and checking items off",
+      "option_b": "Keeping track mentally and handling tasks as they come",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "task_management",
+      "order": 77
+    },
+    {
+      "question_id": "MBTI_JP_09",
+      "question_text": "In meetings, you prefer:",
+      "question_type": "forced_choice",
+      "option_a": "A clear agenda with specific outcomes",
+      "option_b": "Open discussion that can explore various directions",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "meeting_preference",
+      "order": 78
+    },
+    {
+      "question_id": "MBTI_JP_10",
+      "question_text": "When working on multiple projects, you:",
+      "question_type": "forced_choice",
+      "option_a": "Complete one before starting another",
+      "option_b": "Work on several simultaneously",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "multi_project_handling",
+      "order": 79
+    },
+    {
+      "question_id": "MBTI_JP_11",
+      "question_text": "Your approach to problem-solving is:",
+      "question_type": "forced_choice",
+      "option_a": "Systematic with defined steps",
+      "option_b": "Exploratory and experimental",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "problem_solving_method",
+      "order": 80
+    },
+    {
+      "question_id": "MBTI_JP_12",
+      "question_text": "You feel most satisfied when:",
+      "question_type": "forced_choice",
+      "option_a": "Tasks are completed and checked off",
+      "option_b": "You have various options and possibilities ahead",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "satisfaction_source",
+      "order": 81
+    },
+    {
+      "question_id": "MBTI_JP_13",
+      "question_text": "When receiving new information, you tend to:",
+      "question_type": "forced_choice",
+      "option_a": "Quickly form a conclusion and commit to it",
+      "option_b": "Gather more information before deciding",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "information_processing",
+      "order": 82
+    },
+    {
+      "question_id": "MBTI_JP_14",
+      "question_text": "Your communication style includes:",
+      "question_type": "forced_choice",
+      "option_a": "Clear statements and definitive language",
+      "option_b": "Open-ended questions and exploratory tone",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workspace_context_tag": "communication_tone",
+      "order": 83
+    },
+    {
+      "question_id": "MBTI_JP_15",
+      "question_text": "When collaborating with others, you prefer:",
+      "question_type": "forced_choice",
+      "option_a": "Clearly defined roles and responsibilities",
+      "option_b": "Fluid collaboration where roles can shift",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "collaboration_structure",
+      "order": 84
+    },
+    {
+      "question_id": "MBTI_JP_16",
+      "question_text": "Your work style is characterized by:",
+      "question_type": "forced_choice",
+      "option_a": "Predictability and consistency",
+      "option_b": "Variety and spontaneity",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "work_character",
+      "order": 85
+    },
+    {
+      "question_id": "MBTI_JP_17",
+      "question_text": "When finishing a project, you:",
+      "question_type": "forced_choice",
+      "option_a": "Feel relief and closure",
+      "option_b": "Notice things that could still be refined or changed",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "project_completion",
+      "order": 86
+    },
+    {
+      "question_id": "MBTI_JP_18",
+      "question_text": "Your planning horizon focuses on:",
+      "question_type": "forced_choice",
+      "option_a": "Long-term goals with milestones",
+      "option_b": "Near-term priorities that can evolve",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "planning_horizon",
+      "order": 87
+    },
+    {
+      "question_id": "MBTI_JP_19",
+      "question_text": "When interrupted during work, you:",
+      "question_type": "forced_choice",
+      "option_a": "Find it frustrating and prefer to minimize interruptions",
+      "option_b": "Handle it easily and return to what you were doing",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "interruption_tolerance",
+      "order": 88
+    },
+    {
+      "question_id": "MBTI_JP_20",
+      "question_text": "Your time management reflects:",
+      "question_type": "forced_choice",
+      "option_a": "Allocated time blocks for different activities",
+      "option_b": "Flexibility to respond to what seems most important",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "time_management",
+      "order": 89
+    },
+    {
+      "question_id": "MBTI_JP_21",
+      "question_text": "In your work, you value:",
+      "question_type": "forced_choice",
+      "option_a": "Order and predictability",
+      "option_b": "Freedom and flexibility",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "work_values",
+      "order": 90
+    },
+    {
+      "question_id": "MBTI_JP_22",
+      "question_text": "When given an assignment, you:",
+      "question_type": "forced_choice",
+      "option_a": "Start immediately to get ahead of schedule",
+      "option_b": "Allow time for ideas to develop before diving in",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "assignment_initiation",
+      "order": 91
+    },
+    {
+      "question_id": "MBTI_JP_23",
+      "question_text": "Your preferred pace of work is:",
+      "question_type": "forced_choice",
+      "option_a": "Steady and methodical toward completion",
+      "option_b": "Responsive to energy and interest in the moment",
+      "dimension_pair": "J/P",
+      "scoring_key": {
+        "option_a": "J",
+        "option_b": "P"
+      },
+      "reverse_scored": false,
+      "workplace_context_tag": "work_pace",
+      "order": 92
+    }
+  ]
+}

@@ -1,0 +1,809 @@
+Design a complete high-fidelity Figma experience for the “Learning & Assessments” system of Hamrahe, a professional network for Iran’s digital economy.
+
+Important:
+Use the existing Hamrahe UI style, visual language, layout patterns, spacing, colors, cards, navigation, typography, components, and interaction patterns as the source of truth.
+
+Do not invent a completely new visual system.
+Do not redesign Hamrahe from scratch.
+The interface should feel native to the current Hamrahe product.
+
+Let Figma decide the exact UI layout, component composition, spacing, and visual treatment based on the existing Hamrahe design system, while strictly preserving the product logic described below.
+
+Language:
+- Design the full product in Persian.
+- Use RTL layout.
+- Keep English only for necessary product terms like AI, Career Path, Assessment, Skill Graph, Talent Pool, Readiness, Certificate.
+- Tone: professional, clear, premium, modern, trustworthy.
+- Do not make it look like a school, LMS, Udemy, Coursera, LinkedIn Learning clone, or generic video-course platform.
+
+Core Product Philosophy:
+Hamrahe Learning is not video-based.
+Hamrahe Learning is AI-native, interactive, practice-first, career-path-based, assessment-first, and deeply integrated across the product.
+
+Hamrahe does not teach old workflows with new AI tools.
+Hamrahe teaches the new logic of professional work in an AI-native world.
+
+LinkedIn Learning teaches through content consumption.
+Hamrahe teaches through AI-guided practice, real-world simulation, AI output critique, assessment, feedback loops, and measurable career readiness.
+
+Main Formula:
+One Career Path
+Assessment-First Integrated Learning
+AI-Native Role Logic
+Interactive Practice
+Product-Wide Integration
+Multiple Optional Outcomes
+
+Very Important Product Logic:
+Do not design Assessment as a separate isolated product section.
+
+Assessment is not a separate product island.
+Assessment is the starting point, diagnostic engine, validation mechanism, and progress checkpoint inside the integrated Learning experience.
+
+Users may start their journey through an assessment, but the assessment must immediately connect to:
+- Career Path
+- Skill gaps
+- AI-native skill gaps
+- Recommended AI practice
+- Role readiness
+- Application readiness
+- Certificate eligibility
+- Job readiness
+- Company profile
+- Talent Pool
+- Partner opportunities
+
+The experience should feel like one continuous flow:
+
+Assessment
+→ Skill Gap
+→ Recommended Career Path
+→ AI Practice
+→ AI Feedback
+→ Revision
+→ Re-assessment
+→ Readiness Update
+→ Certificate
+→ Job / Talent Pool / Partner Opportunity
+
+Do not create a separate “Assessment Home” that feels disconnected.
+Create an integrated “Learning & Assessments” experience where Assessment triggers Learning actions and Learning progress updates Assessment, Readiness, Skill Graph, Certificate, Job Match, and Talent Pool signals.
+
+Core Experience:
+The user should always understand:
+- Where am I now?
+- What is my current level?
+- What skills am I missing?
+- What should I practice with AI?
+- What Career Path phase should I continue?
+- What assessment should I complete?
+- How does this improve my readiness?
+- Which jobs or companies become more relevant after this?
+- What can I share, and what stays private?
+
+Product Model:
+Learning & Assessments is one unified system with assessment-first entry points.
+
+Integrated Learning & Assessments System:
+
+1. Assessment-First Entry Points
+- Initial diagnostic assessment
+- Job-required assessment
+- Company-requested assessment
+- Career readiness assessment
+- AI workflow assessment
+- AI output critique assessment
+- Role-fit assessment
+- Skill assessment
+
+2. Career Path Engine
+- Role Logic
+- AI Literacy for Role
+- AI-Augmented Workflow
+- Foundation
+- Practice & Execution
+- Readiness & Opportunity
+
+3. AI Practice Engine
+- Interactive AI lessons
+- Scenario-based practice
+- AI roleplay
+- Work simulation
+- AI output critique
+- Prompt / instruction practice
+- AI feedback loop
+- Revision loop
+
+4. Readiness & Skill Intelligence
+- Skill gap detection
+- AI-native skill gap detection
+- Recommended learning
+- Recommended AI practice
+- Role readiness
+- Application readiness
+- Company match
+- Job match
+- Certificate eligibility
+- Partner eligibility
+
+5. Output & Proof
+- Work samples
+- Projects
+- Case studies
+- AI-reviewed outputs
+- Verified skills
+- Certificates
+- Partner-eligible signals
+
+6. Opportunity Connection
+- Apply to jobs
+- Join Talent Pool
+- Optional partner introduction
+- Internship / junior outcome
+- Entry-level opportunities
+
+7. Privacy & Trust
+- Consent controls
+- Visibility settings
+- Data sharing rules
+- AI safety
+- Human decision rule
+- Assessment result privacy
+
+Core Rule:
+Assessment starts the journey.
+Career Path gives the direction.
+AI Practice builds the skill.
+Feedback improves the output.
+Readiness measures progress.
+Certificate proves performance.
+Opportunity connection is optional and user-controlled.
+
+Key User Flow to Design:
+User starts with an assessment
+↓
+System detects skill gaps and AI-native skill gaps
+↓
+System recommends a Career Path phase and AI practice
+↓
+User completes AI practice
+↓
+User critiques AI output
+↓
+AI gives feedback
+↓
+User revises the output
+↓
+Readiness score improves
+↓
+User completes or retakes assessment
+↓
+Certificate eligibility updates
+↓
+User can apply to jobs, join Talent Pool, or opt into partner opportunities
+
+Design the following screens and flows:
+
+Screen 1: Learning & Assessments Home
+Purpose:
+A personalized dashboard where Assessment, Career Path, AI Practice, Readiness, Certificate, and Opportunity are shown as one connected experience.
+
+Header:
+“Learning & Assessments”
+
+Subtitle:
+“با Assessment شروع کن، مسیر شغلی مناسب را پیدا کن، با AI تمرین کن، سنجیده شو و آماده‌تر به فرصت‌ها وصل شو.”
+
+Main sections:
+- Start with Assessment
+- Recommended Next Step
+- Your Career Paths
+- Recommended AI Practices
+- Your Readiness
+- Certificates
+- Partner Opportunities
+- Learning Wallet / AI Credits
+- Privacy Reminder
+
+Primary card:
+“با Assessment شروع کن”
+Copy:
+“اول سطح فعلی‌ات را می‌سنجیم، بعد مسیر شغلی، تمرین‌های AI و قدم بعدی مناسب تو را پیشنهاد می‌دهیم.”
+
+Show what the assessment detects:
+- منطق نقش
+- مهارت‌های پایه
+- توانایی کار با AI
+- نقد خروجی AI
+- آمادگی برای مسیر شغلی
+
+CTA:
+“شروع Assessment”
+
+Screen 2: Assessment-First Learning Entry
+Design a screen where the user starts the Learning journey through an assessment.
+
+This screen must not feel separate from Learning.
+It should clearly show that assessment is the first step to diagnose the user’s current level and recommend the right Career Path, AI practice, and readiness actions.
+
+Content:
+- Assessment title
+- Related Career Path
+- Skills measured
+- AI-native skills measured
+- Estimated time
+- Privacy status
+- What happens after completion
+- CTA: Start Assessment
+
+Example title:
+“Assessment آمادگی طراحی محصول”
+
+Explain:
+“این Assessment سطح فعلی تو را در منطق طراحی، نقد خروجی AI، قضاوت انسانی و آمادگی ورود به مسیر Product Designer می‌سنجد.”
+
+After-completion preview:
+After this assessment, Hamrahe will show:
+- Skill gaps
+- AI-native skill gaps
+- Recommended Career Path phase
+- Recommended AI practice
+- Readiness update
+- Certificate progress
+- Related jobs
+
+Screen 3: Assessment Result to Learning Flow
+Design the result screen as an action hub, not a dead-end result page.
+
+Example assessment:
+“AI-generated UI Critique Assessment”
+
+Show:
+Score: 68%
+Status: Improving
+
+Strengths:
+- تشخیص خوب hierarchy
+- توضیح واضح تصمیم‌ها
+- توانایی نقد ساختار کلی
+
+Skill Gaps:
+- Accessibility judgment
+- Error state design
+- Form usability
+- Trust signals
+
+Recommended Next Actions:
+- Start Accessibility Basics
+- Complete Login Form Critique Practice
+- Continue Product Designer Career Path: Practice & Execution
+- Re-assess after 3 practices
+
+Readiness impact:
+- UI Reasoning +5%
+- AI-assisted Design +4%
+- Product Designer Readiness +3%
+- Application Readiness for 2 saved jobs +4%
+
+Privacy:
+“نتایج Assessment و بازخوردهای AI فقط زمانی با شرکت‌ها به اشتراک گذاشته می‌شوند که اپلای کنی، دعوت را بپذیری یا خودت اجازه بدهی.”
+
+CTAs:
+- Start Recommended AI Practice
+- Continue Career Path
+- Change Visibility
+- Re-assess Later
+
+Screen 4: Career Path Listing
+Show recommended Career Paths based on assessment results.
+
+Career Path cards:
+- Product Designer
+- Product Manager
+- Sales / Business Development
+- Digital Marketer
+- Frontend Developer
+- Customer Success
+
+Each card should show:
+- Title
+- AI-native label
+- Recommended because...
+- Progress
+- Readiness score
+- Number of AI practices
+- Number of assessments
+- Final project
+- Related jobs
+- Related companies
+- Outcomes:
+  - Skill Upgrade
+  - Job Readiness
+  - Certificate
+  - Talent Pool
+  - Partner Opportunities
+
+Example:
+“Product Designer Career Path”
+“AI-native · Practice-first · Assessment-backed”
+“Recommended because your assessment shows strong visual reasoning and medium UX research gap.”
+
+CTA:
+“شروع مسیر”
+
+Screen 5: Career Path Detail
+Design a detailed page for “Product Designer Career Path”.
+
+Sections:
+1. Hero
+- Title
+- Readiness score
+- Progress
+- Current phase
+- Related jobs count
+- Partner eligibility status
+- Primary CTA: Continue Path
+
+2. Assessment Insight
+Show:
+“تو این مسیر را بر اساس نتیجه Assessment شروع می‌کنی.”
+Include:
+- Current strengths
+- Current gaps
+- Recommended phase
+- Suggested next AI practice
+
+3. Role Overview
+Explain what this role does.
+
+4. Role Logic
+Show the core logic of the role:
+- فهم مسئله کاربر
+- طراحی ساختار تجربه
+- تصمیم‌گیری طراحی
+- ارزیابی کیفیت UI
+- توضیح تصمیم‌ها
+
+5. AI Literacy for This Role
+Show:
+- AI چه چیزهایی را سریع‌تر می‌کند؟
+- کجا هنوز قضاوت انسانی لازم است؟
+- خطاهای رایج خروجی AI چیست؟
+- چگونه خروجی AI را نقد کنیم؟
+
+6. AI-Augmented Workflow
+Create a visual workflow:
+Problem → AI ideation → AI output → Human critique → Revision → Work sample → Assessment → Readiness update
+
+7. Skill Map
+Show traditional and AI-native skills.
+
+Traditional:
+- UI Structure
+- Visual Hierarchy
+- Usability
+- Accessibility
+- Design System Thinking
+
+AI-native:
+- AI-assisted Ideation
+- AI-generated UI Critique
+- Prompting for Layout Options
+- AI Output Refinement
+- Human Judgment
+- Design Decision Explanation
+
+8. Three Phases:
+Foundation
+- What is UI Design?
+- What has AI changed in UI Design?
+- Visual hierarchy logic
+- Usability basics
+- Accessibility basics
+- AI-assisted layout exploration
+
+Practice & Execution
+- Generate layout options with AI
+- Critique AI-generated UI
+- Improve hierarchy
+- Simulate design critique with PM
+- Explain design decisions
+
+Readiness & Opportunity
+- Final project
+- Portfolio case study
+- AI Workflow Assessment
+- Portfolio Review
+- Certificate
+- Talent Pool eligibility
+- Optional partner introduction
+
+Screen 6: AI Learning Unit Screen
+Design an interactive learning unit.
+
+Unit title:
+“طراحی صفحه لاگین با کمک AI”
+
+Structure:
+Step 1: Understand the logic
+“What makes a login page effective?”
+Show a short interactive explanation.
+
+Step 2: Use AI
+“Generate 3 possible login page structures.”
+Show a prompt input area and AI-generated sample outputs.
+
+Step 3: Critique
+User critiques AI outputs based on:
+- وضوح مسیر ورود
+- تفاوت ورود فرد و شرکت
+- CTA
+- خطاها
+- اعتماد
+- سادگی
+- دسترسی‌پذیری
+- hierarchy
+- سازگاری با برند
+
+Step 4: Improve
+User selects the best AI output and revises it.
+
+Step 5: AI Feedback
+Show AI feedback:
+- Strengths
+- Weaknesses
+- Suggested improvements
+- Rubric score
+- What changed after revision
+
+Step 6: Progress
+Show:
+UI Reasoning +5%
+AI-assisted Design +4%
+Product Designer Readiness +3%
+Application Readiness for 2 saved jobs +4%
+
+CTAs:
+- Continue Practice
+- Save as Work Sample
+- Send to Assessment
+
+Screen 7: AI Output Critique Practice
+Design a dedicated exercise screen where the user critiques an AI-generated UI.
+
+Layout:
+Use the existing Hamrahe design style. Figma may decide the exact layout.
+
+Required content:
+- AI-generated UI output preview
+- Critique checklist
+- User written reasoning
+- AI feedback panel
+- Rubric score
+- Improvement suggestions
+- Revision comparison
+- Readiness impact
+
+Checklist:
+- Hierarchy
+- Clarity
+- Accessibility
+- Error states
+- Trust
+- Conversion
+- Brand consistency
+- Usability
+
+Screen 8: Certificate & Verified Skills
+Design a certificates page connected to assessment and learning progress.
+
+Certificates:
+- Completion Certificate
+- Verified Skill Certificate
+- AI-Augmented Role Readiness Certificate
+- Work-Ready Certificate
+- Partner-Eligible Certificate
+
+Example certificate:
+“گواهی آمادگی طراحی رابط کاربری با کمک هوش مصنوعی”
+
+Requirements:
+- Assessment completed
+- AI Learning completion
+- Practice completion
+- AI output critique
+- Work simulation
+- Project / work sample
+- AI or human review
+- Profile readiness
+
+Show status:
+- Not eligible
+- In progress
+- Eligible
+- Issued
+- Shared on profile
+- Shared with selected company
+
+Screen 9: Personal Profile Integration
+Show how Learning & Assessments appear inside a personal profile.
+
+Sections:
+- Selected Career Paths
+- Assessment-based recommendations
+- AI Learning Progress
+- Completed Practices
+- AI Output Critique History
+- Completed Projects
+- Completed Assessments
+- Certificates
+- Verified Skills
+- AI-native Role Readiness
+- Application Readiness
+- Partner-Eligible Status
+- Talent Pool Status
+- Consent Controls
+- Learning Wallet
+- AI Review History
+
+Privacy rules:
+- Career Path progress is private by default.
+- Certificate and Verified Skill can be public only with user control.
+- Assessment result is private unless user grants permission.
+
+Screen 10: Job Detail Integration
+Design a Job Detail page where Learning & Assessments are deeply integrated.
+
+Example job:
+“Junior Product Designer”
+
+Show:
+Application Readiness: 56%
+Company Match: 82%
+
+Required:
+- Design Thinking Assessment
+- AI Workflow Assessment
+
+Recommended:
+- Product Designer Career Path: Foundation
+- AI-generated UI Critique Practice
+- Portfolio Case Study Builder
+- Design Interview Roleplay
+
+Missing:
+- Assessment not completed
+- No recent relevant practice
+- Portfolio incomplete
+
+CTAs:
+- Improve Readiness
+- Start Assessment
+- Start AI Practice
+- Apply after completing requirements
+
+Screen 11: Company Profile Integration
+Design a Company Profile section called:
+“Learning & Assessments”
+
+Show:
+- Recommended Career Paths
+- Required Assessments
+- AI-native Skills This Company Looks For
+- How to Get Hired Here
+- Role Families
+- Company Standards
+- Prepare for Open Roles
+- Partner Opportunities
+- Assessment Privacy
+- Completed Learning Signals
+
+Example:
+“Prepare for Product Design roles at this company”
+
+Recommended:
+- Product Designer Career Path
+- AI-generated UI Critique Practice
+- Portfolio Case Study Builder
+
+Required:
+- Design Thinking Assessment
+- Portfolio Review
+
+Journey Map:
+✓ Explore company
+✓ Check your match
+□ Complete required assessment
+□ Finish recommended AI practice
+□ Submit work sample
+□ Apply to matching role
+□ Join Talent Pool if no role fits
+
+Screen 12: Partner Opportunity Flow
+Design the optional partner opportunity flow.
+
+Trigger:
+User has completed required assessment, Career Path requirements, work sample, and certificate.
+
+Prompt:
+“تو واجد شرایط فرصت‌های پارتنری هستی.”
+
+Explain:
+“می‌توانی گواهی، پروژه نهایی و نتایج منتخب Assessment را با شرکت‌های پارتنر برای فرصت‌های کارآموزی، جونیور یا Entry-Level به اشتراک بگذاری.”
+
+Important:
+This is optional.
+No guaranteed employment.
+
+CTAs:
+- Join Partner Talent Pool
+- Manage Visibility
+- Not now
+
+Data sharing list:
+- Certificate
+- Final project
+- Selected assessment results
+- Public profile
+- Work sample
+
+Screen 13: Learning Wallet / AI Credits
+Design a Wallet screen for AI-based learning.
+
+Show:
+- AI Credits balance
+- Welcome Credits
+- Practice Completion Reward
+- Revision Reward
+- Assessment Credits
+- Certificate Discount Credit
+- Company-Sponsored Credits
+- Referral Credits
+
+Usage:
+- AI Teaching Sessions
+- AI Practice Generation
+- AI Roleplay Sessions
+- AI Resume Review
+- AI Portfolio Review
+- AI Output Critique Practice
+- Assessment Attempts
+- Human Expert Review Discount
+- Certificate Application Fee
+
+Rule:
+Credits reward meaningful progress, not empty clicks.
+
+Screen 14: Company Admin - Learning & Assessments
+Design company admin interface.
+
+Sections:
+- Attach Assessment to Job
+- Request Assessment from Candidate
+- Recommend Career Path Progress
+- Recommend AI Practice
+- View Shared Results with Consent
+- Certified Talent Pool
+- Partner Opportunity Access
+- Employee Development
+- Team Skill Gap
+- Learning Analytics
+
+Important restrictions:
+- Companies cannot create random tests.
+- Companies cannot publish educational content directly.
+- Companies cannot see sensitive assessment results without consent.
+- Companies cannot use AI to automatically reject candidates.
+- Companies cannot use candidate projects as free work.
+
+Screen 15: Employee Development Admin
+Design internal employee development flow.
+
+Example:
+Sales Team Development
+
+Assigned Path:
+Sales / Business Development Career Path
+
+Required:
+- Communication Style Assessment
+- AI-assisted Account Research Practice
+- Negotiation AI Roleplay
+- Sales Pitch Simulation
+
+Company View:
+- Completion rate
+- Team skill gap summary
+- Aggregated readiness
+- AI workflow adoption signals
+
+Privacy:
+Individual sensitive results require permission.
+Team reports should be aggregated.
+
+Screen 16: Notifications and Next Best Action
+Design notification cards:
+- A company requested an assessment.
+- Your AI review is ready.
+- Your assessment result suggests a new AI practice.
+- You are eligible for partner opportunities.
+- Your certificate is ready.
+- A saved job now matches your completed assessment.
+- A company viewed your shared certificate.
+
+Screen 17: Mobile Micro-Learning
+Design mobile screens for 5 to 10 minute learning units.
+
+Example:
+“تمرین ۷ دقیقه‌ای امروز”
+“نقد یک صفحه لاگین ساخته‌شده با AI”
+
+Mobile steps:
+- Short prompt
+- AI output card
+- Critique checklist
+- User response
+- AI feedback
+- Progress update
+- Next action
+
+Component Library:
+Create reusable components using the existing Hamrahe design style:
+- Career Path Card
+- Assessment Entry Card
+- Assessment Result Panel
+- Readiness Score Ring
+- AI Learning Unit Card
+- AI Practice Card
+- AI Output Critique Card
+- AI Feedback Panel
+- Skill Gap Card
+- Recommended Next Step Card
+- Certificate Card
+- Verified Skill Badge
+- Partner Eligibility Badge
+- Consent Control Panel
+- Privacy Notice Card
+- Job Readiness Card
+- Company Match Card
+- AI Credit Wallet Card
+- Role Skill Map
+- Phase Timeline
+- Progress Tracker
+- Work Sample Card
+- Talent Pool CTA
+- Admin Analytics Card
+
+Design Principles:
+- Use Hamrahe’s existing design system as the source of truth.
+- Assessment is the starting point, not a separate island.
+- Learning and Assessment must feel like one continuous experience.
+- AI is not decoration; AI is the engine of learning.
+- Assessment should diagnose and guide, not just score.
+- Every assessment result must recommend learning or practice.
+- Every learning completion must improve readiness or profile signal.
+- Every certificate must be based on performance, not passive completion.
+- Every sensitive result must have privacy and consent controls.
+- Every partner introduction must be optional.
+- Every user action should create a smarter next action.
+- Keep the UI clean, integrated, professional, and not overloaded.
+
+Do not include:
+- Video course pages
+- Generic course marketplace design
+- Instructor-centered education
+- Old-school LMS layout
+- Separate isolated Assessment product
+- Empty badge decoration
+- Overloaded dashboards
+- Unclear privacy behavior
+- Fake AI visuals without product logic
+- A new visual design unrelated to current Hamrahe UI
+
+Final Output:
+Create a polished, clickable high-fidelity prototype.
+Design desktop-first screens and key mobile micro-learning screens.
+Use realistic Persian UI copy.
+Use reusable components.
+Follow the current Hamrahe design language.
+Show clear integration between Assessment, Learning, Career Path, AI Practice, Job, Profile, Company Profile, Talent Pool, Certificates, Wallet, Admin, Privacy, and AI feedback.
